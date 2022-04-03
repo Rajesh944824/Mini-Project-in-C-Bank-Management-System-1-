@@ -1,1 +1,1 @@
-# Mini-Project-in-C-Bank-Management-System-1-
+Bank management system using C mini project
